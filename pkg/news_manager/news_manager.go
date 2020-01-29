@@ -2,8 +2,8 @@ package news_manager
 
 import (
 	"errors"
-	"github.com/the-gigi/delinkcious/pkg/link_manager_events"
-	om "github.com/the-gigi/delinkcious/pkg/object_model"
+	"github.com/nomoremehere/delinkcious/pkg/link_manager_events"
+	om "github.com/nomoremehere/delinkcious/pkg/object_model"
 	"strconv"
 	"time"
 )

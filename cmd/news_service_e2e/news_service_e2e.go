@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 	"fmt"
-	lme "github.com/the-gigi/delinkcious/pkg/link_manager_events"
-	nmc "github.com/the-gigi/delinkcious/pkg/news_manager_client"
-	om "github.com/the-gigi/delinkcious/pkg/object_model"
-	. "github.com/the-gigi/delinkcious/pkg/test_util"
+	lme "github.com/nomoremehere/delinkcious/pkg/link_manager_events"
+	nmc "github.com/nomoremehere/delinkcious/pkg/news_manager_client"
+	om "github.com/nomoremehere/delinkcious/pkg/object_model"
+	. "github.com/nomoremehere/delinkcious/pkg/test_util"
 	"os"
 	"time"
 )

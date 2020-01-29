@@ -1,3 +1,3 @@
-IMAGE=g1g1/delinkcious-python-flask-grpc:0.1
+IMAGE=farshidgilak/delinkcious-python-flask-grpc:0.1
 docker build . -t $IMAGE
 docker push $IMAGE
